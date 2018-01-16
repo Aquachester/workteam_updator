@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/workteam_updator-1.0-SNAPSHOT-jar-with-dependencies.jar Main
+web: java -jar target/workteam_updator-1.0-SNAPSHOT-jar-with-dependencies.jar
