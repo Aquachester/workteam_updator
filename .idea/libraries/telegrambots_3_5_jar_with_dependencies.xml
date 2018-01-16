@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="telegrambots-3.5-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jars/telegrambots-3.5-jar-with-dependencies.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jars/telegrambots-abilities-3.5-jar-with-dependencies.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jars/telegrambots-meta-3.5-jar-with-dependencies.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jars/telegrambotsextensions-3.5-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
